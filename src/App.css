@@ -1,0 +1,36 @@
+@media screen and (max-width: 400px) {
+
+}
+* {
+    font-family: "Exo 2" !important;
+}
+ p {
+     font-size: 20px !important;
+ }
+
+ .buy-camel-section {
+     background-color: #bfc500;
+     padding: 6px;
+ }
+.rabble-context {
+    font-size: 24px;
+}
+* {
+    font-family: "Exo 2" !important;
+} 
+.rotateimg1 {
+    /* position: relative; */
+    /* animation: mymove 8s infinite; */
+}
+@keyframes mymove {
+    0% {
+        transform: rotateY(0deg);
+      }
+    
+    50% {
+        transform: rotateY(180deg);
+      }
+    100% {
+        transform: rotateY(0deg);
+    }  
+  }

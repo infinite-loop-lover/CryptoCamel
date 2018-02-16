@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'wre';
+					src: url('7872wre.woff2') format('woff2'),
+						url('7872wre.woff') format('woff');
+					font-display: auto;
+				}
+
+				.wre{font-family: 'wre' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'wre' !important;
+				}
+		
